@@ -44,8 +44,5 @@ public class FirstJavaTraining {
         System.out.println(IntRes-DoubleRes);
         System.out.println(IntRes*DoubleRes);
         System.out.println(IntRes/DoubleRes);
-
-
-
     }
 }
